@@ -73,3 +73,14 @@ h1{
     display: block;
 }
 
+
+
+
+h2{
+    margin-top: 2rem;
+    color: white;
+}
+textarea{
+    overflow: hidden;
+    resize: none;
+}
